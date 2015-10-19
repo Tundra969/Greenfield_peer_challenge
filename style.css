@@ -1,0 +1,41 @@
+body{
+	font-family: arial;
+	background-color: grey;
+}
+
+.generate{
+	font-weight: bold;
+	padding: 10px;
+	margin: 10px 10px 10px 300px;
+	border: 5px black;
+	border-radius: 10px;
+	background-color: #FDF5E6;
+}
+
+.property{
+	background-color: #2F4F4F;
+	width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 5px 0 3px 0;
+}
+
+.propertyID, .sqFt, .costSqFt{
+	text-align: center;
+	display: inline-block;
+	width: 25%;
+	height: 30px;
+	color: white;
+}
+
+.remove {
+	font-weight: bold;
+	padding: 10px;
+	border: 5px black;
+	border-radius: 10px;
+	background-color: #FDF5E6;
+}
+
+.removeButton{
+	display: inline-block;
+}
